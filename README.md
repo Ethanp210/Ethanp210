@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0048F7&width=435&lines=Small+time+developer)](https://git.io/typing-svg)
-
+---
 - 👀 I’m interested in Web hosting and other such coding expiditions.
 - 🌱 I’m currently learning HTML, Python, CSS, and occasionally some PHP.
 - 📫 How to reach me [Contact Me](mailto:ependowski@outlook.com?subject=GitHub)
