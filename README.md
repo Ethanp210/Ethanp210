@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning HTML, Python, CSS, and occasionally some PHP.
 - 📫 How to reach me [Contact Me](mailto:ependowski@outlook.com?subject=GitHub)
 
+## **Stats:**
 [![Discord Presence](https://lanyard.cnrad.dev/api/726209196680544257)](https://discord.com/users/726209196680544257)
 
 ## Contact me:<br>
