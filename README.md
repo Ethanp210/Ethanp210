@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Discord-100000?logo=discord&style=social">
 </a>
 <img src="https://komarev.com/ghpvc/?username=Ethanp210&label=Views&color=0e75b6&style=flat" alt="Ethanp210">
+[Email](mailto:ependowski@outlook.com?subject=GitHub)
 <!---
 Ethanp210/Ethanp210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
